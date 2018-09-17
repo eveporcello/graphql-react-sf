@@ -23,7 +23,7 @@ If you want to learn more about GraphQL, check out the following resources:
 ## GraphQL APIs
 * [GitHub API](https://developer.github.com/v4/): GitHub's public API
 * [SWAPI](https://graphql.org/swapi-graphql/): The Star Wars API
-* [Public GraphQL APIs](https://graphql.org/community): A list of public APIs that can be queried with GraphQL
+* [Public GraphQL APIs](https://github.com/APIs-guru/graphql-apis): A list of public APIs that can be queried with GraphQL
 
 ## GraphQL Clients
 * [Apollo Client](https://www.apollographql.com/docs/react/): The GraphQL client developed by Meteor Development Group
