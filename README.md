@@ -36,4 +36,4 @@ If you want to learn more about GraphQL, check out the following resources:
 * [GraphQL Workshop](https://www.graphqlworkshop.com)
 * [Moon Highway](https://www.moonhighway.com)
 
-Join us at [GraphQL Summit](https://www.summit.graphql.com)! Use discount code "REACTSF" to get $50 off.
+Join us at [GraphQL Summit](https://summit.graphql.com)! Use discount code "REACTSF" to get $50 off.
